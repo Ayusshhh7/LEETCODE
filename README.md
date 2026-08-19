@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/Ayusshhh7/LEETCODE/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Ayusshhh7/LEETCODE/tree/master/0004-median-of-two-sorted-arrays) |
 | [0055-jump-game](https://github.com/Ayusshhh7/LEETCODE/tree/master/0055-jump-game) |
+| [0164-maximum-gap](https://github.com/Ayusshhh7/LEETCODE/tree/master/0164-maximum-gap) |
 ## Hash Table
 |  |
 | ------- |
@@ -52,4 +53,20 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/Ayusshhh7/LEETCODE/tree/master/0044-wildcard-matching) |
+## Sorting
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/Ayusshhh7/LEETCODE/tree/master/0164-maximum-gap) |
+## Bucket Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/Ayusshhh7/LEETCODE/tree/master/0164-maximum-gap) |
+## Radix Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/Ayusshhh7/LEETCODE/tree/master/0164-maximum-gap) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/Ayusshhh7/LEETCODE/tree/master/0164-maximum-gap) |
 <!---LeetCode Topics End-->
