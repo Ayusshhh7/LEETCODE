@@ -33,4 +33,20 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Ayusshhh7/LEETCODE/tree/master/0004-median-of-two-sorted-arrays) |
+## String
+|  |
+| ------- |
+| [0044-wildcard-matching](https://github.com/Ayusshhh7/LEETCODE/tree/master/0044-wildcard-matching) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0044-wildcard-matching](https://github.com/Ayusshhh7/LEETCODE/tree/master/0044-wildcard-matching) |
+## Greedy
+|  |
+| ------- |
+| [0044-wildcard-matching](https://github.com/Ayusshhh7/LEETCODE/tree/master/0044-wildcard-matching) |
+## Recursion
+|  |
+| ------- |
+| [0044-wildcard-matching](https://github.com/Ayusshhh7/LEETCODE/tree/master/0044-wildcard-matching) |
 <!---LeetCode Topics End-->
