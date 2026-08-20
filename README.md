@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0004-median-of-two-sorted-arrays](https://github.com/Ayusshhh7/LEETCODE/tree/master/0004-median-of-two-sorted-arrays) |
 | [0055-jump-game](https://github.com/Ayusshhh7/LEETCODE/tree/master/0055-jump-game) |
 | [0164-maximum-gap](https://github.com/Ayusshhh7/LEETCODE/tree/master/0164-maximum-gap) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Ayusshhh7/LEETCODE/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -69,4 +70,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/Ayusshhh7/LEETCODE/tree/master/0164-maximum-gap) |
+## Simulation
+|  |
+| ------- |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Ayusshhh7/LEETCODE/tree/master/3069-distribute-elements-into-two-arrays-i) |
 <!---LeetCode Topics End-->
