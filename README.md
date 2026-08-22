@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/Ayusshhh7/LEETCODE/tree/master/0202-happy-number) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Ayusshhh7/LEETCODE/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Two Pointers
 |  |
 | ------- |
