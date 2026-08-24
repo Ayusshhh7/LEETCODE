@@ -20,11 +20,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0041-first-missing-positive](https://github.com/Ayusshhh7/LEETCODE/tree/master/0041-first-missing-positive) |
 | [0076-minimum-window-substring](https://github.com/Ayusshhh7/LEETCODE/tree/master/0076-minimum-window-substring) |
 | [0202-happy-number](https://github.com/Ayusshhh7/LEETCODE/tree/master/0202-happy-number) |
+| [0264-ugly-number-ii](https://github.com/Ayusshhh7/LEETCODE/tree/master/0264-ugly-number-ii) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Ayusshhh7/LEETCODE/tree/master/2206-divide-array-into-equal-pairs) |
 ## Math
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/Ayusshhh7/LEETCODE/tree/master/0202-happy-number) |
+| [0264-ugly-number-ii](https://github.com/Ayusshhh7/LEETCODE/tree/master/0264-ugly-number-ii) |
 | [1927-sum-game](https://github.com/Ayusshhh7/LEETCODE/tree/master/1927-sum-game) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Ayusshhh7/LEETCODE/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Two Pointers
@@ -55,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0044-wildcard-matching](https://github.com/Ayusshhh7/LEETCODE/tree/master/0044-wildcard-matching) |
 | [0055-jump-game](https://github.com/Ayusshhh7/LEETCODE/tree/master/0055-jump-game) |
+| [0264-ugly-number-ii](https://github.com/Ayusshhh7/LEETCODE/tree/master/0264-ugly-number-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -117,4 +120,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1927-sum-game](https://github.com/Ayusshhh7/LEETCODE/tree/master/1927-sum-game) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0264-ugly-number-ii](https://github.com/Ayusshhh7/LEETCODE/tree/master/0264-ugly-number-ii) |
 <!---LeetCode Topics End-->
