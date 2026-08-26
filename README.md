@@ -53,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0006-zigzag-conversion](https://github.com/Ayusshhh7/LEETCODE/tree/master/0006-zigzag-conversion) |
 | [0044-wildcard-matching](https://github.com/Ayusshhh7/LEETCODE/tree/master/0044-wildcard-matching) |
 | [0076-minimum-window-substring](https://github.com/Ayusshhh7/LEETCODE/tree/master/0076-minimum-window-substring) |
 | [1927-sum-game](https://github.com/Ayusshhh7/LEETCODE/tree/master/1927-sum-game) |
