@@ -35,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0168-excel-sheet-column-title](https://github.com/Ayusshhh7/LEETCODE/tree/master/0168-excel-sheet-column-title) |
 | [0202-happy-number](https://github.com/Ayusshhh7/LEETCODE/tree/master/0202-happy-number) |
 | [0264-ugly-number-ii](https://github.com/Ayusshhh7/LEETCODE/tree/master/0264-ugly-number-ii) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/Ayusshhh7/LEETCODE/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [1927-sum-game](https://github.com/Ayusshhh7/LEETCODE/tree/master/1927-sum-game) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Ayusshhh7/LEETCODE/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Two Pointers
@@ -68,6 +69,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0242-valid-anagram](https://github.com/Ayusshhh7/LEETCODE/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/Ayusshhh7/LEETCODE/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/Ayusshhh7/LEETCODE/tree/master/0392-is-subsequence) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/Ayusshhh7/LEETCODE/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [1927-sum-game](https://github.com/Ayusshhh7/LEETCODE/tree/master/1927-sum-game) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Ayusshhh7/LEETCODE/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Ayusshhh7/LEETCODE/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -113,6 +115,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 |  |
 | ------- |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/Ayusshhh7/LEETCODE/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Ayusshhh7/LEETCODE/tree/master/2206-divide-array-into-equal-pairs) |
 ## Counting
 |  |
