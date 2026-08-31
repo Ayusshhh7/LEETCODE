@@ -38,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0202-happy-number](https://github.com/Ayusshhh7/LEETCODE/tree/master/0202-happy-number) |
 | [0264-ugly-number-ii](https://github.com/Ayusshhh7/LEETCODE/tree/master/0264-ugly-number-ii) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Ayusshhh7/LEETCODE/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0504-base-7](https://github.com/Ayusshhh7/LEETCODE/tree/master/0504-base-7) |
 | [1927-sum-game](https://github.com/Ayusshhh7/LEETCODE/tree/master/1927-sum-game) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Ayusshhh7/LEETCODE/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Two Pointers
@@ -73,6 +74,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0392-is-subsequence](https://github.com/Ayusshhh7/LEETCODE/tree/master/0392-is-subsequence) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Ayusshhh7/LEETCODE/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0500-keyboard-row](https://github.com/Ayusshhh7/LEETCODE/tree/master/0500-keyboard-row) |
+| [0504-base-7](https://github.com/Ayusshhh7/LEETCODE/tree/master/0504-base-7) |
 | [1927-sum-game](https://github.com/Ayusshhh7/LEETCODE/tree/master/1927-sum-game) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Ayusshhh7/LEETCODE/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Ayusshhh7/LEETCODE/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
