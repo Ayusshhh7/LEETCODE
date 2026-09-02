@@ -43,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0504-base-7](https://github.com/Ayusshhh7/LEETCODE/tree/master/0504-base-7) |
 | [1927-sum-game](https://github.com/Ayusshhh7/LEETCODE/tree/master/1927-sum-game) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Ayusshhh7/LEETCODE/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Ayusshhh7/LEETCODE/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Ayusshhh7/LEETCODE/tree/master/3875-construct-uniform-parity-array-i) |
 ## Two Pointers
 |  |
