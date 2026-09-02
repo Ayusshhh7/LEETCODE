@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0164-maximum-gap](https://github.com/Ayusshhh7/LEETCODE/tree/master/0164-maximum-gap) |
 | [0500-keyboard-row](https://github.com/Ayusshhh7/LEETCODE/tree/master/0500-keyboard-row) |
 | [0643-maximum-average-subarray-i](https://github.com/Ayusshhh7/LEETCODE/tree/master/0643-maximum-average-subarray-i) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Ayusshhh7/LEETCODE/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Ayusshhh7/LEETCODE/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Ayusshhh7/LEETCODE/tree/master/2206-divide-array-into-equal-pairs) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Ayusshhh7/LEETCODE/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -82,6 +83,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0500-keyboard-row](https://github.com/Ayusshhh7/LEETCODE/tree/master/0500-keyboard-row) |
 | [0504-base-7](https://github.com/Ayusshhh7/LEETCODE/tree/master/0504-base-7) |
 | [1927-sum-game](https://github.com/Ayusshhh7/LEETCODE/tree/master/1927-sum-game) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Ayusshhh7/LEETCODE/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Ayusshhh7/LEETCODE/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Ayusshhh7/LEETCODE/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Dynamic Programming
