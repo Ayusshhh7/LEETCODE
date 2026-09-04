@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0004-median-of-two-sorted-arrays](https://github.com/Ayusshhh7/LEETCODE/tree/master/0004-median-of-two-sorted-arrays) |
 | [0041-first-missing-positive](https://github.com/Ayusshhh7/LEETCODE/tree/master/0041-first-missing-positive) |
 | [0055-jump-game](https://github.com/Ayusshhh7/LEETCODE/tree/master/0055-jump-game) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Ayusshhh7/LEETCODE/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0164-maximum-gap](https://github.com/Ayusshhh7/LEETCODE/tree/master/0164-maximum-gap) |
 | [0500-keyboard-row](https://github.com/Ayusshhh7/LEETCODE/tree/master/0500-keyboard-row) |
 | [0643-maximum-average-subarray-i](https://github.com/Ayusshhh7/LEETCODE/tree/master/0643-maximum-average-subarray-i) |
@@ -66,6 +67,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Ayusshhh7/LEETCODE/tree/master/0004-median-of-two-sorted-arrays) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Ayusshhh7/LEETCODE/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
