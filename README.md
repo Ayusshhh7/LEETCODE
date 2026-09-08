@@ -48,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/Ayusshhh7/LEETCODE/tree/master/0007-reverse-integer) |
 | [0168-excel-sheet-column-title](https://github.com/Ayusshhh7/LEETCODE/tree/master/0168-excel-sheet-column-title) |
 | [0202-happy-number](https://github.com/Ayusshhh7/LEETCODE/tree/master/0202-happy-number) |
 | [0264-ugly-number-ii](https://github.com/Ayusshhh7/LEETCODE/tree/master/0264-ugly-number-ii) |
