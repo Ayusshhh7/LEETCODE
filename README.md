@@ -53,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0264-ugly-number-ii](https://github.com/Ayusshhh7/LEETCODE/tree/master/0264-ugly-number-ii) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Ayusshhh7/LEETCODE/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0504-base-7](https://github.com/Ayusshhh7/LEETCODE/tree/master/0504-base-7) |
+| [1323-maximum-69-number](https://github.com/Ayusshhh7/LEETCODE/tree/master/1323-maximum-69-number) |
 | [1927-sum-game](https://github.com/Ayusshhh7/LEETCODE/tree/master/1927-sum-game) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Ayusshhh7/LEETCODE/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Ayusshhh7/LEETCODE/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -120,6 +121,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0044-wildcard-matching](https://github.com/Ayusshhh7/LEETCODE/tree/master/0044-wildcard-matching) |
 | [0055-jump-game](https://github.com/Ayusshhh7/LEETCODE/tree/master/0055-jump-game) |
 | [0409-longest-palindrome](https://github.com/Ayusshhh7/LEETCODE/tree/master/0409-longest-palindrome) |
+| [1323-maximum-69-number](https://github.com/Ayusshhh7/LEETCODE/tree/master/1323-maximum-69-number) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Ayusshhh7/LEETCODE/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1927-sum-game](https://github.com/Ayusshhh7/LEETCODE/tree/master/1927-sum-game) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Ayusshhh7/LEETCODE/tree/master/2091-removing-minimum-and-maximum-from-array) |
