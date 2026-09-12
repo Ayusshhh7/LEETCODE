@@ -60,6 +60,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0504-base-7](https://github.com/Ayusshhh7/LEETCODE/tree/master/0504-base-7) |
 | [1323-maximum-69-number](https://github.com/Ayusshhh7/LEETCODE/tree/master/1323-maximum-69-number) |
 | [1927-sum-game](https://github.com/Ayusshhh7/LEETCODE/tree/master/1927-sum-game) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Ayusshhh7/LEETCODE/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Ayusshhh7/LEETCODE/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Ayusshhh7/LEETCODE/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Ayusshhh7/LEETCODE/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -113,6 +114,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Ayusshhh7/LEETCODE/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Ayusshhh7/LEETCODE/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Ayusshhh7/LEETCODE/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Ayusshhh7/LEETCODE/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3838-weighted-word-mapping](https://github.com/Ayusshhh7/LEETCODE/tree/master/3838-weighted-word-mapping) |
 ## Dynamic Programming
 |  |
@@ -133,6 +135,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Ayusshhh7/LEETCODE/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1927-sum-game](https://github.com/Ayusshhh7/LEETCODE/tree/master/1927-sum-game) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Ayusshhh7/LEETCODE/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Ayusshhh7/LEETCODE/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Recursion
 |  |
 | ------- |
