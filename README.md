@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Ayusshhh7/LEETCODE/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Ayusshhh7/LEETCODE/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Ayusshhh7/LEETCODE/tree/master/2206-divide-array-into-equal-pairs) |
+| [2553-separate-the-digits-in-an-array](https://github.com/Ayusshhh7/LEETCODE/tree/master/2553-separate-the-digits-in-an-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Ayusshhh7/LEETCODE/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Ayusshhh7/LEETCODE/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Ayusshhh7/LEETCODE/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -177,6 +178,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Ayusshhh7/LEETCODE/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2553-separate-the-digits-in-an-array](https://github.com/Ayusshhh7/LEETCODE/tree/master/2553-separate-the-digits-in-an-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Ayusshhh7/LEETCODE/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3838-weighted-word-mapping](https://github.com/Ayusshhh7/LEETCODE/tree/master/3838-weighted-word-mapping) |
 ## Bit Manipulation
