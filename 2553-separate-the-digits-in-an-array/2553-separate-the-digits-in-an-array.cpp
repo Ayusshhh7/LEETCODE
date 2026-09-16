@@ -1,23 +1,19 @@
 class Solution {
 public:
     vector<int> separateDigits(vector<int>& nums) {
-        vector<int> sd;
+        
+        vector<int> result;
 
-        for (int i = 0; i < nums.size(); i++) {
-            vector<int> temp;
+        for (int num : nums) {
 
-            while (nums[i] > 0) {
-                temp.push_back(nums[i] % 10);
-                nums[i] /= 10;
-            }
+            string s = to_string(num);
 
-            reverse(temp.begin(), temp.end());
+            for (char ch : s) {
 
-            for (int digit : temp) {
-                sd.push_back(digit);
+                result.push_back(ch - '0');
             }
         }
 
-        return sd;
+        return result;
     }
 };
