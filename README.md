@@ -72,6 +72,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1927-sum-game](https://github.com/Ayusshhh7/LEETCODE/tree/master/1927-sum-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Ayusshhh7/LEETCODE/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Ayusshhh7/LEETCODE/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3536-maximum-product-of-two-digits](https://github.com/Ayusshhh7/LEETCODE/tree/master/3536-maximum-product-of-two-digits) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Ayusshhh7/LEETCODE/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Ayusshhh7/LEETCODE/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Ayusshhh7/LEETCODE/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -164,6 +165,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0164-maximum-gap](https://github.com/Ayusshhh7/LEETCODE/tree/master/0164-maximum-gap) |
 | [0242-valid-anagram](https://github.com/Ayusshhh7/LEETCODE/tree/master/0242-valid-anagram) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Ayusshhh7/LEETCODE/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
+| [3536-maximum-product-of-two-digits](https://github.com/Ayusshhh7/LEETCODE/tree/master/3536-maximum-product-of-two-digits) |
 ## Bucket Sort
 |  |
 | ------- |
