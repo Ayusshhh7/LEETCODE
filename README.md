@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2161-partition-array-according-to-given-pivot](https://github.com/Ayusshhh7/LEETCODE/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Ayusshhh7/LEETCODE/tree/master/2206-divide-array-into-equal-pairs) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Ayusshhh7/LEETCODE/tree/master/2553-separate-the-digits-in-an-array) |
+| [2574-left-and-right-sum-differences](https://github.com/Ayusshhh7/LEETCODE/tree/master/2574-left-and-right-sum-differences) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Ayusshhh7/LEETCODE/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Ayusshhh7/LEETCODE/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Ayusshhh7/LEETCODE/tree/master/3483-unique-3-digit-even-numbers) |
@@ -276,6 +277,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Prefix Sum
 |  |
 | ------- |
+| [2574-left-and-right-sum-differences](https://github.com/Ayusshhh7/LEETCODE/tree/master/2574-left-and-right-sum-differences) |
 | [3903-smallest-stable-index-i](https://github.com/Ayusshhh7/LEETCODE/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Ayusshhh7/LEETCODE/tree/master/3904-smallest-stable-index-ii) |
 ## Manacher
