@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Ayusshhh7/LEETCODE/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Ayusshhh7/LEETCODE/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Ayusshhh7/LEETCODE/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [1833-maximum-ice-cream-bars](https://github.com/Ayusshhh7/LEETCODE/tree/master/1833-maximum-ice-cream-bars) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Ayusshhh7/LEETCODE/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Ayusshhh7/LEETCODE/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Ayusshhh7/LEETCODE/tree/master/2078-two-furthest-houses-with-different-colors) |
@@ -165,6 +166,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0409-longest-palindrome](https://github.com/Ayusshhh7/LEETCODE/tree/master/0409-longest-palindrome) |
 | [1323-maximum-69-number](https://github.com/Ayusshhh7/LEETCODE/tree/master/1323-maximum-69-number) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Ayusshhh7/LEETCODE/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
+| [1833-maximum-ice-cream-bars](https://github.com/Ayusshhh7/LEETCODE/tree/master/1833-maximum-ice-cream-bars) |
 | [1927-sum-game](https://github.com/Ayusshhh7/LEETCODE/tree/master/1927-sum-game) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Ayusshhh7/LEETCODE/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Ayusshhh7/LEETCODE/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -183,6 +185,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0242-valid-anagram](https://github.com/Ayusshhh7/LEETCODE/tree/master/0242-valid-anagram) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ayusshhh7/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Ayusshhh7/LEETCODE/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
+| [1833-maximum-ice-cream-bars](https://github.com/Ayusshhh7/LEETCODE/tree/master/1833-maximum-ice-cream-bars) |
 | [3536-maximum-product-of-two-digits](https://github.com/Ayusshhh7/LEETCODE/tree/master/3536-maximum-product-of-two-digits) |
 ## Bucket Sort
 |  |
@@ -331,4 +334,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Ayusshhh7/LEETCODE/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Counting Sort
+|  |
+| ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/Ayusshhh7/LEETCODE/tree/master/1833-maximum-ice-cream-bars) |
 <!---LeetCode Topics End-->
