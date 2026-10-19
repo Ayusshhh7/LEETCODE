@@ -28,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Ayusshhh7/LEETCODE/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Ayusshhh7/LEETCODE/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Ayusshhh7/LEETCODE/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Ayusshhh7/LEETCODE/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Ayusshhh7/LEETCODE/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Ayusshhh7/LEETCODE/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Ayusshhh7/LEETCODE/tree/master/2206-divide-array-into-equal-pairs) |
@@ -127,6 +128,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0004-median-of-two-sorted-arrays](https://github.com/Ayusshhh7/LEETCODE/tree/master/0004-median-of-two-sorted-arrays) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Ayusshhh7/LEETCODE/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Ayusshhh7/LEETCODE/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Ayusshhh7/LEETCODE/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Ayusshhh7/LEETCODE/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Divide and Conquer
 |  |
@@ -214,6 +216,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0628-maximum-product-of-three-numbers](https://github.com/Ayusshhh7/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Ayusshhh7/LEETCODE/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1833-maximum-ice-cream-bars](https://github.com/Ayusshhh7/LEETCODE/tree/master/1833-maximum-ice-cream-bars) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Ayusshhh7/LEETCODE/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Ayusshhh7/LEETCODE/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3536-maximum-product-of-two-digits](https://github.com/Ayusshhh7/LEETCODE/tree/master/3536-maximum-product-of-two-digits) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Ayusshhh7/LEETCODE/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
