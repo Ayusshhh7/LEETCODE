@@ -44,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3483-unique-3-digit-even-numbers](https://github.com/Ayusshhh7/LEETCODE/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Ayusshhh7/LEETCODE/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Ayusshhh7/LEETCODE/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Ayusshhh7/LEETCODE/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Ayusshhh7/LEETCODE/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Ayusshhh7/LEETCODE/tree/master/3689-maximum-total-subarray-value-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Ayusshhh7/LEETCODE/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -296,6 +297,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0112-path-sum](https://github.com/Ayusshhh7/LEETCODE/tree/master/0112-path-sum) |
 | [1254-number-of-closed-islands](https://github.com/Ayusshhh7/LEETCODE/tree/master/1254-number-of-closed-islands) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Ayusshhh7/LEETCODE/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Ayusshhh7/LEETCODE/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Binary Tree
 |  |
 | ------- |
@@ -385,6 +387,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0104-maximum-depth-of-binary-tree](https://github.com/Ayusshhh7/LEETCODE/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Ayusshhh7/LEETCODE/tree/master/0112-path-sum) |
 | [1254-number-of-closed-islands](https://github.com/Ayusshhh7/LEETCODE/tree/master/1254-number-of-closed-islands) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Ayusshhh7/LEETCODE/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Euclidean Algorithm
 |  |
 | ------- |
@@ -436,6 +439,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/Ayusshhh7/LEETCODE/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Ayusshhh7/LEETCODE/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Ayusshhh7/LEETCODE/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -452,4 +456,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/Ayusshhh7/LEETCODE/tree/master/1254-number-of-closed-islands) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Ayusshhh7/LEETCODE/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 <!---LeetCode Topics End-->
