@@ -46,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Ayusshhh7/LEETCODE/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Ayusshhh7/LEETCODE/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Ayusshhh7/LEETCODE/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3665-twisted-mirror-path-count](https://github.com/Ayusshhh7/LEETCODE/tree/master/3665-twisted-mirror-path-count) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Ayusshhh7/LEETCODE/tree/master/3689-maximum-total-subarray-value-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Ayusshhh7/LEETCODE/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Ayusshhh7/LEETCODE/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -198,6 +199,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0392-is-subsequence](https://github.com/Ayusshhh7/LEETCODE/tree/master/0392-is-subsequence) |
 | [1406-stone-game-iii](https://github.com/Ayusshhh7/LEETCODE/tree/master/1406-stone-game-iii) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Ayusshhh7/LEETCODE/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [3665-twisted-mirror-path-count](https://github.com/Ayusshhh7/LEETCODE/tree/master/3665-twisted-mirror-path-count) |
 ## Greedy
 |  |
 | ------- |
@@ -467,6 +469,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/Ayusshhh7/LEETCODE/tree/master/1254-number-of-closed-islands) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Ayusshhh7/LEETCODE/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3665-twisted-mirror-path-count](https://github.com/Ayusshhh7/LEETCODE/tree/master/3665-twisted-mirror-path-count) |
 ## Graph Theory
 |  |
 | ------- |
